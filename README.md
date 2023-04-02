@@ -5,4 +5,5 @@
 
 # 動作確認環境
 Ubuntu 18.04 / Windows10
+
 RC-S380
